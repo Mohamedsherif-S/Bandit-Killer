@@ -6,7 +6,7 @@ SSH basics — connecting to a remote server.
 ## Commands Used
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
-cat readme
+cat filename
 ```
 
 ## What I Learned
